@@ -1,0 +1,6 @@
+[submodule "plugins/obsidian-sagecell"]
+	path = plugins/obsidian-sagecell
+	url = git@github.com:EricR/obsidian-sagecell.git
+[submodule "plugins/obsidiane-sage"]
+	path = plugins/obsidiane-sage
+	url = git@github.com:Exr0n/obsidiane-sage.git
